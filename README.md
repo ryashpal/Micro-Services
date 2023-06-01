@@ -8,7 +8,7 @@ docker stop <container id>
 
 docker rm <container id>
 
-cd /path/to/project/root
+cd `/path/to/project/root`
 
 docker build --tag python-docker .
 
